@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @x658834
-- 👀 I’m interested the sources offPAMPA SIA source
+- 👀 I’m interested for the sources off PAMPA SIA
 - 🌱 I’m currently working in this aplication of PAMPA
 - 💞️ I’m looking to collaborate on this task
-<---
-x658834/SIA_Santander_Uruguay is a SIA source repository and its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 💞️ x658834/SIA_Santander_Uruguay is a SIA source repository and its `README.md` (this file) appears on your GitHub profile
+- 💞️ You can click the Preview link to take a look at your changes.
 --->
